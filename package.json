@@ -1,0 +1,20 @@
+{
+  "name": "yesasaservice",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanbraganza/yesasaservice.git"
+  },
+  "author": "Ryan Braganza",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/ryanbraganza/yesasaservice/issues"
+  },
+  "homepage": "https://github.com/ryanbraganza/yesasaservice#readme"
+}
